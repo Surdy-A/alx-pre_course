@@ -1,5 +1,1 @@
-git status
-git add .
-git push
-git commit
-git pull
+echo “git pull”> up_to_date
